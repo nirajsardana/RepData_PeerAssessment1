@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>cds-reproducible-research-assessment-1/PA1_template.Rmd at master · kevinkrenz/cds-reproducible-research-assessment-1</title>
+    <title>cds-reproducible-research-assessment-1/PA1_template.md at master · kevinkrenz/cds-reproducible-research-assessment-1</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -34,7 +34,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="31CD6C4E:2934:12AEC5C:548DCF0A" name="octolytics-dimension-request_id" /><meta content="8679180" name="octolytics-actor-id" /><meta content="nirajsardana" name="octolytics-actor-login" /><meta content="b040d9d4bd9fe845ebe5eadbb6c57040b4f005099b6442ed92f40ecbf1d9fb4b" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="31CD6C4E:2935:16295AB:548DCF1C" name="octolytics-dimension-request_id" /><meta content="8679180" name="octolytics-actor-id" /><meta content="nirajsardana" name="octolytics-actor-login" /><meta content="b040d9d4bd9fe845ebe5eadbb6c57040b4f005099b6442ed92f40ecbf1d9fb4b" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -44,7 +44,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="WKNRQAI1F4R36V6Qm2gRwNqEJcUjYQEX1tzwYikvNVqgzXq6aQvaxVtb/C8aMFrQBJuwcH94lXEpLofZpPHEdg==" name="csrf-token" />
+<meta content="nVQIpc09RurWSKEQsD33XQJNWXGKs1zRk1kXpWlmcr96LBmTi/tRYVyOYvqIh+brwhKxseycbmYaKWoQbWqpbw==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-c7f434a471766a748d862b4cb294526acd6901321d901cc64028f53af8490603.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-761398b51b4a87682bde8f8b3479da06f8bde788a3fae6fb10b018a384748cf0.css" media="all" rel="stylesheet" type="text/css" />
@@ -157,7 +157,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="BfpoyQnViS/SeBSJVXjx0MUdUntXvjzi7fZxZGvenQ6SsfZkeavNbng0NiPGm9BTTB1HLgAJbKjKh0KehPVMnw==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FRs+Xzb7UtozBV4T+gLKUq13zr/FclJgD8acPM1oW4wIZ9tXobKNg67ojSWDK06+ND/Zpa3yQsJi2WP650pYig==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -186,7 +186,7 @@
 <ul class="pagehead-actions">
 
     <li class="subscription">
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kNErjErcfl0F2or9QTgmT6cs1mCnvwJf6C5U6fT8uD4H8iqOLPBwltB8jpRXtZbKr3QX2t0ohG1TLdX2/ijp4Q==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19876942" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XZ+neu+u3n+/qUKahRHcRuuyeYPzinU9plEdLk50OU3H026aF3iJjfdGqKlrcc/Iav6ULFQLpnfUtHyuiUFKGA==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19876942" />
 
     <div class="select-menu js-menu-container js-select-menu">
       <a class="social-count js-social-count" href="/kevinkrenz/cds-reproducible-research-assessment-1/watchers">
@@ -261,7 +261,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/kevinkrenz/cds-reproducible-research-assessment-1/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sXvg28n5viBt0fuXdE32C0/mxgGLNY55NySi1DK8P48dvgtrq8Y4GeH1TAiaBe42F7hYZxtihQwVEdCJBQ0GdQ==" /></div>
+    <form accept-charset="UTF-8" action="/kevinkrenz/cds-reproducible-research-assessment-1/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KqS9iDsqyCsq531la99jLczL07/Wo9xxwEY8Me7zbtIZHl8P/JotPrN+qRz/JFcY1wHcTiTdObs12MeIDwyKWw==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Unstar this repository" title="Unstar kevinkrenz/cds-reproducible-research-assessment-1">
@@ -272,7 +272,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/kevinkrenz/cds-reproducible-research-assessment-1/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="eA9uw8rGU40SE+s/cHP9h7GSdvLVgOAs3TiMMzoJiqWd0jbM0GB/8kDpmN2R5kiqkOJ7u1SG/0UjDO6V1x74qg==" /></div>
+    <form accept-charset="UTF-8" action="/kevinkrenz/cds-reproducible-research-assessment-1/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1YeqQod5GGQyT8WK3rtP0vYA7MxqM6XZX9uEPUxlns7kMlDrVq1QBXcntb66aYxduO1c7Om2C5AeUHNxESKCfg==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Star this repository" title="Star kevinkrenz/cds-reproducible-research-assessment-1">
@@ -436,9 +436,9 @@
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
-<a href="/kevinkrenz/cds-reproducible-research-assessment-1/blob/a727f540d4c18f589a23c01d5af458dbab7db816/PA1_template.Rmd" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/kevinkrenz/cds-reproducible-research-assessment-1/blob/a727f540d4c18f589a23c01d5af458dbab7db816/PA1_template.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:b69a148b511faf94ea4712531374bb64 -->
+<!-- blob contrib key: blob_contributors:v21:3ea6474b83ffe7b89e185ee73862054d -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -484,7 +484,7 @@
 
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/kevinkrenz/cds-reproducible-research-assessment-1/blob/master/PA1_template.Rmd"
+              <a href="/kevinkrenz/cds-reproducible-research-assessment-1/blob/master/PA1_template.md"
                  data-name="master"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -521,7 +521,7 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/kevinkrenz/cds-reproducible-research-assessment-1" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">cds-reproducible-research-assessment-1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/kevinkrenz/cds-reproducible-research-assessment-1" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">cds-reproducible-research-assessment-1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
   </div>
 </div>
 
@@ -539,14 +539,11 @@
     <div class="participation">
       <p class="quickstat">
         <a href="#blob_contributors_box" rel="facebox">
-          <strong>2</strong>
-           contributors
+          <strong>1</strong>
+           contributor
         </a>
       </p>
-          <a class="avatar-link tooltipped tooltipped-s" aria-label="kevinkrenz" href="/kevinkrenz/cds-reproducible-research-assessment-1/commits/master/PA1_template.Rmd?author=kevinkrenz"><img alt="Kevin Krenz" class="avatar" data-user="289312" height="20" src="https://avatars2.githubusercontent.com/u/289312?v=3&amp;s=40" width="20" /></a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="rdpeng" href="/kevinkrenz/cds-reproducible-research-assessment-1/commits/master/PA1_template.Rmd?author=rdpeng"><img alt="Roger D. Peng" class="avatar" data-user="9612" height="20" src="https://avatars2.githubusercontent.com/u/9612?v=3&amp;s=40" width="20" /></a>
-
-
+      
     </div>
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header">Users who have contributed to this file</h2>
@@ -554,10 +551,6 @@
           <li class="facebox-user-list-item">
             <img alt="Kevin Krenz" data-user="289312" height="24" src="https://avatars0.githubusercontent.com/u/289312?v=3&amp;s=48" width="24" />
             <a href="/kevinkrenz">kevinkrenz</a>
-          </li>
-          <li class="facebox-user-list-item">
-            <img alt="Roger D. Peng" data-user="9612" height="24" src="https://avatars0.githubusercontent.com/u/9612?v=3&amp;s=48" width="24" />
-            <a href="/rdpeng">rdpeng</a>
           </li>
       </ul>
     </div>
@@ -567,29 +560,29 @@
   <div class="file">
     <div class="meta clearfix">
       <div class="info file-name">
-          <span>146 lines (119 sloc)</span>
+          <span>210 lines (131 sloc)</span>
           <span class="meta-divider"></span>
-        <span>4.458 kb</span>
+        <span>4.692 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
-          <a href="/kevinkrenz/cds-reproducible-research-assessment-1/raw/master/PA1_template.Rmd" class="minibutton " id="raw-url">Raw</a>
-            <a href="/kevinkrenz/cds-reproducible-research-assessment-1/blame/master/PA1_template.Rmd" class="minibutton js-update-url-with-hash">Blame</a>
-          <a href="/kevinkrenz/cds-reproducible-research-assessment-1/commits/master/PA1_template.Rmd" class="minibutton " rel="nofollow">History</a>
+          <a href="/kevinkrenz/cds-reproducible-research-assessment-1/raw/master/PA1_template.md" class="minibutton " id="raw-url">Raw</a>
+            <a href="/kevinkrenz/cds-reproducible-research-assessment-1/blame/master/PA1_template.md" class="minibutton js-update-url-with-hash">Blame</a>
+          <a href="/kevinkrenz/cds-reproducible-research-assessment-1/commits/master/PA1_template.md" class="minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
 
           <a class="octicon-button tooltipped tooltipped-nw"
-             href="github-windows://openRepo/https://github.com/kevinkrenz/cds-reproducible-research-assessment-1?branch=master&amp;filepath=PA1_template.Rmd" aria-label="Open this file in GitHub for Windows">
+             href="github-windows://openRepo/https://github.com/kevinkrenz/cds-reproducible-research-assessment-1?branch=master&amp;filepath=PA1_template.md" aria-label="Open this file in GitHub for Windows">
               <span class="octicon octicon-device-desktop"></span>
           </a>
 
               <a class="octicon-button tooltipped tooltipped-n js-update-url-with-hash"
                  aria-label="Clicking this button will fork this project so you can edit the file"
-                 href="/kevinkrenz/cds-reproducible-research-assessment-1/edit/master/PA1_template.Rmd"
+                 href="/kevinkrenz/cds-reproducible-research-assessment-1/edit/master/PA1_template.md"
                  data-method="post" rel="nofollow"><span class="octicon octicon-pencil"></span></a>
 
             <a class="octicon-button danger tooltipped tooltipped-s"
-               href="/kevinkrenz/cds-reproducible-research-assessment-1/delete/master/PA1_template.Rmd"
+               href="/kevinkrenz/cds-reproducible-research-assessment-1/delete/master/PA1_template.md"
                aria-label="Fork this project and delete file"
                data-method="post" data-test-id="delete-blob-file" rel="nofollow">
           <span class="octicon octicon-trashcan"></span>
@@ -603,69 +596,76 @@
 
 <hr>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">opts_chunk</span><span class="pl-k">$</span>set(<span class="pl-v">echo</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>, <span class="pl-v">results</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>asis<span class="pl-pds">'</span></span>)</pre></div>
-
 <h2>
 <a id="user-content-loading-and-preprocessing-the-data" class="anchor" href="#loading-and-preprocessing-the-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Loading and preprocessing the data</h2>
 
 <p>Read in the data.</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-k">if</span>(<span class="pl-k">!</span>file.exists(<span class="pl-s1"><span class="pl-pds">'</span>activity.csv<span class="pl-pds">'</span></span>)){
-    unzip(<span class="pl-s1"><span class="pl-pds">'</span>activity.zip<span class="pl-pds">'</span></span>)
+<div class="highlight highlight-r"><pre><span class="pl-k">if</span> (<span class="pl-k">!</span>file.exists(<span class="pl-s1"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>)) {
+    unzip(<span class="pl-s1"><span class="pl-pds">"</span>activity.zip<span class="pl-pds">"</span></span>)
 }
-<span class="pl-vo">activity</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s1"><span class="pl-pds">'</span>activity.csv<span class="pl-pds">'</span></span>)</pre></div>
+<span class="pl-vo">activity</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s1"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>)</pre></div>
 
 <p>Create a date.time column that combines the date and interval columns.</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">time</span> <span class="pl-k">&lt;-</span> formatC(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">interval</span> <span class="pl-k">/</span> <span class="pl-c1">100</span>, <span class="pl-c1">2</span>, <span class="pl-v">format</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>f<span class="pl-pds">'</span></span>)
-<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">date.time</span> <span class="pl-k">&lt;-</span> as.POSIXct(paste(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-vo">time</span>),
-                                 <span class="pl-v">format</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>%Y-%m-%d %H.%M<span class="pl-pds">'</span></span>,
-                                 <span class="pl-v">tz</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>GMT<span class="pl-pds">'</span></span>)</pre></div>
+<div class="highlight highlight-r"><pre><span class="pl-vo">time</span> <span class="pl-k">&lt;-</span> formatC(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">interval</span><span class="pl-k">/</span><span class="pl-c1">100</span>, <span class="pl-c1">2</span>, <span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>f<span class="pl-pds">"</span></span>)
+<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">date.time</span> <span class="pl-k">&lt;-</span> as.POSIXct(paste(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-vo">time</span>), <span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>%Y-%m-%d %H.%M<span class="pl-pds">"</span></span>, 
+    <span class="pl-v">tz</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>GMT<span class="pl-pds">"</span></span>)</pre></div>
 
 <p>For analyzing the means at the different times of day, it will also be convenient to have a time column. To do this, I convert all of the dates to be for today. since we only care about the time for that column, it will help us with the analysis.</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">time</span> <span class="pl-k">&lt;-</span> format(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">date.time</span>, <span class="pl-v">format</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>%H:%M:%S<span class="pl-pds">'</span></span>)
-<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">time</span> <span class="pl-k">&lt;-</span> as.POSIXct(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">time</span>, <span class="pl-v">format</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>%H:%M:%S<span class="pl-pds">'</span></span>)</pre></div>
+<div class="highlight highlight-r"><pre><span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">time</span> <span class="pl-k">&lt;-</span> format(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">date.time</span>, <span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>%H:%M:%S<span class="pl-pds">"</span></span>)
+<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">time</span> <span class="pl-k">&lt;-</span> as.POSIXct(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">time</span>, <span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>%H:%M:%S<span class="pl-pds">"</span></span>)</pre></div>
 
 <h2>
 <a id="user-content-what-is-mean-total-number-of-steps-taken-per-day" class="anchor" href="#what-is-mean-total-number-of-steps-taken-per-day" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is mean total number of steps taken per day?</h2>
 
 <p>First, calculate the mean number of steps for each day:</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">total.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-vo">sum</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)</pre></div>
+<div class="highlight highlight-r"><pre><span class="pl-vo">total.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-vo">sum</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)</pre></div>
 
 <p>Let's look at the mean and median for the total steps per day:</p>
 
-<div class="highlight highlight-r"><pre>mean(<span class="pl-vo">total.steps</span>)
-median(<span class="pl-vo">total.steps</span>)</pre></div>
+<div class="highlight highlight-r"><pre>mean(<span class="pl-vo">total.steps</span>)</pre></div>
+
+<p>[1] 9354</p>
+
+<div class="highlight highlight-r"><pre>median(<span class="pl-vo">total.steps</span>)</pre></div>
+
+<p>[1] 10395</p>
 
 <p>And let's take a look at the distribution of total number of steps per day with a histogram:</p>
 
 <div class="highlight highlight-r"><pre>library(<span class="pl-vo">ggplot2</span>)
-qplot(<span class="pl-vo">total.steps</span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>Total steps<span class="pl-pds">'</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>Frequency<span class="pl-pds">'</span></span>)</pre></div>
+qplot(<span class="pl-vo">total.steps</span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>Total steps<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>Frequency<span class="pl-pds">"</span></span>)</pre></div>
+
+<pre><code>## stat_bin: binwidth defaulted to range/30. Use 'binwidth = x' to adjust this.
+</code></pre>
+
+<p><a href="/kevinkrenz/cds-reproducible-research-assessment-1/blob/master/figure/histogram.png" target="_blank"><img src="/kevinkrenz/cds-reproducible-research-assessment-1/raw/master/figure/histogram.png" alt="plot of chunk histogram" style="max-width:100%;"></a> </p>
 
 <h2>
 <a id="user-content-what-is-the-average-daily-activity-pattern" class="anchor" href="#what-is-the-average-daily-activity-pattern" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is the average daily activity pattern?</h2>
 
 <p>Calculate the mean steps for each five minute interval, and then put it in a data frame.</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">mean.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">time</span>, <span class="pl-vo">mean</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-<span class="pl-vo">daily.pattern</span> <span class="pl-k">&lt;-</span> <span class="pl-st">data.frame</span>(<span class="pl-v">time</span><span class="pl-k">=</span>as.POSIXct(names(<span class="pl-vo">mean.steps</span>)),
-                            <span class="pl-v">mean.steps</span><span class="pl-k">=</span><span class="pl-vo">mean.steps</span>)</pre></div>
+<div class="highlight highlight-r"><pre><span class="pl-vo">mean.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">time</span>, <span class="pl-vo">mean</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+<span class="pl-vo">daily.pattern</span> <span class="pl-k">&lt;-</span> <span class="pl-st">data.frame</span>(<span class="pl-v">time</span> <span class="pl-k">=</span> as.POSIXct(names(<span class="pl-vo">mean.steps</span>)), <span class="pl-v">mean.steps</span> <span class="pl-k">=</span> <span class="pl-vo">mean.steps</span>)</pre></div>
 
 <p>Let's take a look at a time series plot for the mean steps.</p>
 
 <div class="highlight highlight-r"><pre>library(<span class="pl-vo">scales</span>)
-ggplot(<span class="pl-vo">daily.pattern</span>, aes(<span class="pl-vo">time</span>, <span class="pl-vo">mean.steps</span>)) <span class="pl-k">+</span> 
-    geom_line() <span class="pl-k">+</span>
-    xlab(<span class="pl-s1"><span class="pl-pds">'</span>Time of day<span class="pl-pds">'</span></span>) <span class="pl-k">+</span>
-    ylab(<span class="pl-s1"><span class="pl-pds">'</span>Mean number of steps<span class="pl-pds">'</span></span>) <span class="pl-k">+</span>
-    scale_x_datetime(<span class="pl-v">labels</span><span class="pl-k">=</span>date_format(<span class="pl-v">format</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>%H:%M<span class="pl-pds">'</span></span>))</pre></div>
+ggplot(<span class="pl-vo">daily.pattern</span>, aes(<span class="pl-vo">time</span>, <span class="pl-vo">mean.steps</span>)) <span class="pl-k">+</span> geom_line() <span class="pl-k">+</span> xlab(<span class="pl-s1"><span class="pl-pds">"</span>Time of day<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> 
+    ylab(<span class="pl-s1"><span class="pl-pds">"</span>Mean number of steps<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> scale_x_datetime(<span class="pl-v">labels</span> <span class="pl-k">=</span> date_format(<span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>%H:%M<span class="pl-pds">"</span></span>))</pre></div>
+
+<p><a href="/kevinkrenz/cds-reproducible-research-assessment-1/blob/master/figure/timeseriesplot.png" target="_blank"><img src="/kevinkrenz/cds-reproducible-research-assessment-1/raw/master/figure/timeseriesplot.png" alt="plot of chunk timeseriesplot" style="max-width:100%;"></a> </p>
 
 <p>Which five minute interval has the highest mean number of steps?</p>
 
 <div class="highlight highlight-r"><pre><span class="pl-vo">most</span> <span class="pl-k">&lt;-</span> which.max(<span class="pl-vo">daily.pattern</span><span class="pl-k">$</span><span class="pl-vo">mean.steps</span>)
-format(<span class="pl-vo">daily.pattern</span>[<span class="pl-vo">most</span>,<span class="pl-s1"><span class="pl-pds">'</span>time<span class="pl-pds">'</span></span>], <span class="pl-v">format</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>%H:%M<span class="pl-pds">'</span></span>)</pre></div>
+format(<span class="pl-vo">daily.pattern</span>[<span class="pl-vo">most</span>, <span class="pl-s1"><span class="pl-pds">"</span>time<span class="pl-pds">"</span></span>], <span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>%H:%M<span class="pl-pds">"</span></span>)</pre></div>
+
+<p>[1] "08:35"</p>
 
 <h2>
 <a id="user-content-imputing-missing-values" class="anchor" href="#imputing-missing-values" aria-hidden="true"><span class="octicon octicon-link"></span></a>Imputing missing values</h2>
@@ -673,6 +673,9 @@ format(<span class="pl-vo">daily.pattern</span>[<span class="pl-vo">most</span>,
 <p>Identify the number of intervals with missing step counts ("NA's"):</p>
 
 <div class="highlight highlight-r"><pre>summary(<span class="pl-vo">activity</span><span class="pl-k">$</span><span class="pl-vo">steps</span>)</pre></div>
+
+<p>Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+    0.0     0.0     0.0    37.4    12.0   806.0    2304 </p>
 
 <p>To fill in the missing values, I'll use mean steps for a five-minute interval for the entire dataset.</p>
 
@@ -682,16 +685,32 @@ format(<span class="pl-vo">daily.pattern</span>[<span class="pl-vo">most</span>,
 
 <p>Let's compare the mean and median steps for each day between the original data set and the imputed data set.</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">total.steps.imputed</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, 
-                              <span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-vo">sum</span>)
-mean(<span class="pl-vo">total.steps</span>)
-mean(<span class="pl-vo">total.steps.imputed</span>)
-median(<span class="pl-vo">total.steps</span>)
-median(<span class="pl-vo">total.steps.imputed</span>)</pre></div>
+<div class="highlight highlight-r"><pre><span class="pl-vo">total.steps.imputed</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">date</span>, 
+    <span class="pl-vo">sum</span>)
+mean(<span class="pl-vo">total.steps</span>)</pre></div>
+
+<p>[1] 9354</p>
+
+<div class="highlight highlight-r"><pre>mean(<span class="pl-vo">total.steps.imputed</span>)</pre></div>
+
+<p>[1] 10766</p>
+
+<div class="highlight highlight-r"><pre>median(<span class="pl-vo">total.steps</span>)</pre></div>
+
+<p>[1] 10395</p>
+
+<div class="highlight highlight-r"><pre>median(<span class="pl-vo">total.steps.imputed</span>)</pre></div>
+
+<p>[1] 10766</p>
 
 <p>And a histogram of the imputed dataset.</p>
 
-<div class="highlight highlight-r"><pre>qplot(<span class="pl-vo">total.steps.imputed</span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>Total steps<span class="pl-pds">'</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>Frequency<span class="pl-pds">'</span></span>)</pre></div>
+<div class="highlight highlight-r"><pre>qplot(<span class="pl-vo">total.steps.imputed</span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>Total steps<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>Frequency<span class="pl-pds">"</span></span>)</pre></div>
+
+<pre><code>## stat_bin: binwidth defaulted to range/30. Use 'binwidth = x' to adjust this.
+</code></pre>
+
+<p><a href="/kevinkrenz/cds-reproducible-research-assessment-1/blob/master/figure/histogram_imputed.png" target="_blank"><img src="/kevinkrenz/cds-reproducible-research-assessment-1/raw/master/figure/histogram_imputed.png" alt="plot of chunk histogram_imputed" style="max-width:100%;"></a> </p>
 
 <p>Imputing the missing data has increased the average number of steps. </p>
 
@@ -701,10 +720,10 @@ median(<span class="pl-vo">total.steps.imputed</span>)</pre></div>
 <p>Add a factor column for whether a day is a weekday or weekend.</p>
 
 <div class="highlight highlight-r"><pre><span class="pl-en">day.type</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-vo">date</span>) {
-    <span class="pl-k">if</span> (weekdays(<span class="pl-vo">date</span>) <span class="pl-k">%in%</span> c(<span class="pl-s1"><span class="pl-pds">'</span>Saturday<span class="pl-pds">'</span></span>, <span class="pl-s1"><span class="pl-pds">'</span>Sunday<span class="pl-pds">'</span></span>)) {
-        <span class="pl-k">return</span>(<span class="pl-s1"><span class="pl-pds">'</span>weekend<span class="pl-pds">'</span></span>)
+    <span class="pl-k">if</span> (weekdays(<span class="pl-vo">date</span>) <span class="pl-k">%in%</span> c(<span class="pl-s1"><span class="pl-pds">"</span>Saturday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Sunday<span class="pl-pds">"</span></span>)) {
+        <span class="pl-k">return</span>(<span class="pl-s1"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>)
     } <span class="pl-k">else</span> {
-        <span class="pl-k">return</span>(<span class="pl-s1"><span class="pl-pds">'</span>weekday<span class="pl-pds">'</span></span>)
+        <span class="pl-k">return</span>(<span class="pl-s1"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>)
     }
 }
 
@@ -713,23 +732,18 @@ median(<span class="pl-vo">total.steps.imputed</span>)</pre></div>
 
 <p>Create a dataframe that holds the mean steps for weekdays and weekends.</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">mean.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, 
-                     interaction(<span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">time</span>,
-                                 <span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">day.type</span>),
-                     <span class="pl-vo">mean</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-<span class="pl-vo">day.type.pattern</span> <span class="pl-k">&lt;-</span> <span class="pl-st">data.frame</span>(<span class="pl-v">time</span><span class="pl-k">=</span>as.POSIXct(names(<span class="pl-vo">mean.steps</span>)),
-                               <span class="pl-v">mean.steps</span><span class="pl-k">=</span><span class="pl-vo">mean.steps</span>,
-                               <span class="pl-v">day.type</span><span class="pl-k">=</span>as.factor(c(rep(<span class="pl-s1"><span class="pl-pds">'</span>weekday<span class="pl-pds">'</span></span>, <span class="pl-c1">288</span>),
-                                                   rep(<span class="pl-s1"><span class="pl-pds">'</span>weekend<span class="pl-pds">'</span></span>, <span class="pl-c1">288</span>))))</pre></div>
+<div class="highlight highlight-r"><pre><span class="pl-vo">mean.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, interaction(<span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">time</span>, 
+    <span class="pl-vo">activity.imputed</span><span class="pl-k">$</span><span class="pl-vo">day.type</span>), <span class="pl-vo">mean</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+<span class="pl-vo">day.type.pattern</span> <span class="pl-k">&lt;-</span> <span class="pl-st">data.frame</span>(<span class="pl-v">time</span> <span class="pl-k">=</span> as.POSIXct(names(<span class="pl-vo">mean.steps</span>)), <span class="pl-v">mean.steps</span> <span class="pl-k">=</span> <span class="pl-vo">mean.steps</span>, 
+    <span class="pl-v">day.type</span> <span class="pl-k">=</span> as.factor(c(rep(<span class="pl-s1"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>, <span class="pl-c1">288</span>), rep(<span class="pl-s1"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>, <span class="pl-c1">288</span>))))</pre></div>
 
 <p>Now let's compare the patterns between weekdays and weekends.</p>
 
-<div class="highlight highlight-r"><pre>ggplot(<span class="pl-vo">day.type.pattern</span>, aes(<span class="pl-vo">time</span>, <span class="pl-vo">mean.steps</span>)) <span class="pl-k">+</span> 
-    geom_line() <span class="pl-k">+</span>
-    xlab(<span class="pl-s1"><span class="pl-pds">'</span>Time of day<span class="pl-pds">'</span></span>) <span class="pl-k">+</span>
-    ylab(<span class="pl-s1"><span class="pl-pds">'</span>Mean number of steps<span class="pl-pds">'</span></span>) <span class="pl-k">+</span>
-    scale_x_datetime(<span class="pl-v">labels</span><span class="pl-k">=</span>date_format(<span class="pl-v">format</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">'</span>%H:%M<span class="pl-pds">'</span></span>)) <span class="pl-k">+</span>
+<div class="highlight highlight-r"><pre>ggplot(<span class="pl-vo">day.type.pattern</span>, aes(<span class="pl-vo">time</span>, <span class="pl-vo">mean.steps</span>)) <span class="pl-k">+</span> geom_line() <span class="pl-k">+</span> xlab(<span class="pl-s1"><span class="pl-pds">"</span>Time of day<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> 
+    ylab(<span class="pl-s1"><span class="pl-pds">"</span>Mean number of steps<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> scale_x_datetime(<span class="pl-v">labels</span> <span class="pl-k">=</span> date_format(<span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>%H:%M<span class="pl-pds">"</span></span>)) <span class="pl-k">+</span> 
     facet_grid(. <span class="pl-k">~</span> <span class="pl-vo">day.type</span>)</pre></div>
+
+<p><a href="/kevinkrenz/cds-reproducible-research-assessment-1/blob/master/figure/timeseries_daytype.png" target="_blank"><img src="/kevinkrenz/cds-reproducible-research-assessment-1/raw/master/figure/timeseries_daytype.png" alt="plot of chunk timeseries_daytype" style="max-width:100%;"></a> </p>
 </article>
   </div>
 
@@ -771,7 +785,7 @@ median(<span class="pl-vo">total.steps.imputed</span>)</pre></div>
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2014 <span title="0.05438s from github-fe128-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2014 <span title="0.04794s from github-fe126-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
